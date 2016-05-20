@@ -8,3 +8,4 @@ jdk:
 notifications:
   email:
     - java-apns@frohwalt.de
+
